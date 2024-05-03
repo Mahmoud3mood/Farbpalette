@@ -2,5 +2,6 @@ Farbpalette
 
 Rot
 Grün
-Blau
+HELLBlau
+Dunkelblau
 Sind alles tolle Farben.
